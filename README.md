@@ -1,4 +1,4 @@
-<div align="right">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-end; gap: 12px;">
   <a style="text-decoration: none" target="_blank" href="https://github.com/AlexandherCM">
     <img
       src="https://visitor-badge.laobi.icu/badge?page_id=AlexandherCM.AlexandherCM&left_color=gray&right_color=blue&left_text=Devs%20Visitantes">
@@ -8,7 +8,7 @@
   </a> -->
   <a style="text-decoration: none" target="_blank"
     href="https://www.linkedin.com/in/cordoba-molina-alexandher-a0b4112bb">
-    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+    <img width="70" src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 </div>
 
@@ -58,14 +58,14 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
   </table>
 </div>
 
-<h2>🔥| My contribution streak</h2>
+<h2>🔥| Mis contribuciones públicas</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandherCM#version3" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandherCM" />
   </a>
 </p>
 
-<h2>⭐ | Github Stats </h2>
+<h2>⭐ | Estadísticas públicas en Github</h2>
 
 <div align="center">
   <a href="https://github.com/AlexandherCM">
@@ -75,7 +75,7 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandherCM&layout=compact&langs_count=7&theme=default" /></a>
 </div>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ | Lenguajes, Frameworks, y herramientas </h2>
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
