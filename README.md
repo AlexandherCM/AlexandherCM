@@ -38,7 +38,7 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
-    <tr>
+    <tr style="display: flex; gap: 2.5rem;">
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png" />
         <img
@@ -48,10 +48,6 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
 
         <strong>Universidad Politécnica de Tecámac</strong><br><strong>
       </td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
       <td align="center">
         <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png" />
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLvTQSPnex7-PmkU0-36swfIZGVL2qgkMHg&s"
