@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-end; gap: 12px;">
+<div align="right">
   <a style="text-decoration: none" target="_blank" href="https://github.com/AlexandherCM">
     <img
       src="https://visitor-badge.laobi.icu/badge?page_id=AlexandherCM.AlexandherCM&left_color=gray&right_color=blue&left_text=Devs%20Visitantes">
