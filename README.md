@@ -45,7 +45,6 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
           src="https://uptecamac.edomex.gob.mx/sites/uptecamac.edomex.gob.mx/files/images/Acerca%20de%20la%20Universidad/símbolos/2025/SOFTWARE.png"
           width="90" alt="UPS.png" /><br>
         <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png" /><br>
-
         <strong>Universidad Politécnica de Tecámac</strong><br><strong>
       </td>
       <td align="center">
