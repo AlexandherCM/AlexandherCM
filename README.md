@@ -99,7 +99,7 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb" />
-      <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1yZ3qBO6yJan7Mh2Pf6Bl8CT37mnsKtyc8Q&s" />
+       <img height="40" src="https://img.icons8.com/color/512/microsoft-sql-server.png" />
     </td>
   </tr>
   <tr>
