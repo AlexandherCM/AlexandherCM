@@ -84,7 +84,10 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,jquery,ts,angular" /></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,jquery,ts,angular" />
+      <img height="40" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
+    </td>
   </tr>
   <!-- <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
