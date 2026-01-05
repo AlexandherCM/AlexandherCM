@@ -57,24 +57,21 @@ metodologías y optimizan la colaboración entre equipos de desarrollo, operacio
     </tr>
   </table>
 </div>
-
+<!--
 <h2>🔥| Mis contribuciones públicas</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandherCM" />
   </a>
 </p>
-
 <h2>⭐ | Estadísticas públicas en Github</h2>
-
 <div align="center">
   <a href="https://github.com/AlexandherCM">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=AlexandherCM&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandherCM&layout=compact&langs_count=7&theme=default" /></a>
-</div>
-
+</div>-->
 <h2>🛠️ | Lenguajes, Frameworks, y herramientas </h2>
 <table>
   <tr>
