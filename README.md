@@ -7,7 +7,7 @@
     <img width="60" src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
   </a> -->
   <a style="text-decoration: none" target="_blank"
-    href="https://www.linkedin.com/in/cordoba-molina-alexandher-a0b4112bb">
+    href="https://www.linkedin.com/in/alexandher-cordoba-molina-a0b4112bb">
     <img width="70" src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 </div>
